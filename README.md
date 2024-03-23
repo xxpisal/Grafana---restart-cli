@@ -1,1 +1,1 @@
-# Grafana---restart-cli
+How to restart grafana service

@@ -1,1 +1,1 @@
-How to restart grafana service
+# How to restart grafana service
